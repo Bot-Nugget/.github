@@ -1,4 +1,4 @@
-## Hi there 👋
+welcome to the GitHub organization for the Bot Nugget suite of software, services, and automations
 
 <!--
 
